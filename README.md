@@ -1,2 +1,2 @@
 # Difficulty
-2414124
+Mining complexity level
